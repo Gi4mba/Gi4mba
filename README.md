@@ -24,7 +24,7 @@
 #### 🪙 Web 3.0
 
 <p align="left">
-  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" alt="Solidity" title="Solidity" width="36" height="36" /></a>
+  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/solidity/FFFFFF" alt="Solidity" title="Solidity" width="36" height="36" /></a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" title="Hardhat" width="36" height="36" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
   <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" alt="Filebase" title="Filebase" width="36" height="36" /></a>
