@@ -3,7 +3,7 @@
 </p>
 
 ### About Me
-  *I'm Giamba, an aspiring **Solidity Developer** working as an IT Technician & Developer in a Modern Retail company*.
+  *I'm Giamba, an aspiring **Solidity Developer** working as an IT Systems & Developer in a Modern Retail company*.
 
   * &nbsp;I'm working on **Smart Contract Security, De-Fi &amp; Blockchain**  
   * &nbsp;I'm currently learning **Foundry**
